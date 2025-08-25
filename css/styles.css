@@ -1,0 +1,15 @@
+
+
+
+body{
+    background: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    color: rgb(22, 197, 206);
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+body a{
+    text-decoration: none;
+}
