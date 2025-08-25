@@ -12,4 +12,9 @@ body{
 
 body a{
     text-decoration: none;
+    
+}
+
+ul{
+    text-align: left;
 }
